@@ -1,0 +1,21 @@
+{
+  "name": "profilepage",
+  "version": "1.0.0",
+  "description": "My Profile Page",
+  "main": "tailwind.config.js",
+  "scripts": {
+    
+    "build":"tailwindcss -i ./src/input.css -o ./dist/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskievan95/profilepage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskievan95/profilepage/issues"
+  },
+  "homepage": "https://github.com/muskievan95/profilepage#readme"
+}
